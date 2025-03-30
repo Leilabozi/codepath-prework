@@ -10,8 +10,8 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -36,7 +36,8 @@ The following **required** functionality is completed:
     
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
 I couldn't attach properly button and make it work but after debugging it became easier. 
 
 ## License
